@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Start your industrial operations with confidence. Alwejha Group offers professional startup and commissioning services for new facilities across Oman." />
+  <title>Startup Services Oman | Alwejha Group</title>
+  <link rel="canonical" href="https://startup-services-oman.alwejhagroup.com/" />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+    header, footer { background-color: #0a0a23; color: white; text-align: center; padding: 1rem 0; }
+    nav a { margin: 0 1rem; color: white; text-decoration: none; }
+    .hero { background: url('startup-services-oman.webp') no-repeat center/cover; color: white; padding: 6rem 2rem; text-align: center; }
+    .content { padding: 2rem; max-width: 1000px; margin: auto; }
+    h1 { font-size: 2rem; color: #0a0a23; }
+    p { line-height: 1.6; }
+    footer a { color: #ccc; text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <nav>
+      <a href="https://www.alwejhagroup.com/">Home</a>
+      <a href="https://www.alwejhagroup.com/area-of-expertise">Area of Expertise</a>
+      <a href="https://www.alwejhagroup.com/our-services">Our Services</a>
+      <a href="https://www.alwejhagroup.com/contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Startup Services in Oman</h1>
+    <p>Accelerate your industrial facility's launch with expert startup and commissioning support</p>
+  </section>
+
+  <section class="content">
+    <h2>Seamless Startups for Critical Infrastructure</h2>
+    <p>Launching an industrial facility is a high-stakes process that demands precision, coordination, and technical mastery. Alwejha Group provides comprehensive startup services in Oman to ensure your operations begin safely, efficiently, and on schedule.</p>
+
+    <p>Our specialists work alongside your teams to validate systems, fine-tune performance, and troubleshoot early challenges. Whether it's a power plant, manufacturing facility, or processing unit, we optimize all systems and processes to deliver reliable, full-scale operational readiness.</p>
+
+    <h2>Our Startup Solutions Include:</h2>
+    <ul>
+      <li>System and equipment validation</li>
+      <li>Operational readiness checks</li>
+      <li>Real-time troubleshooting and adjustments</li>
+      <li>Compliance documentation and reporting</li>
+    </ul>
+
+    <p>Alwejha Group’s startup services reduce risk, improve ROI, and ensure long-term equipment reliability. Trust us to bridge the gap between construction and full operation with confidence and technical excellence.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Alwejha Group. All rights reserved. | <a href="https://www.alwejhagroup.com/privacy-policy">Privacy Policy</a></p>
+  </footer>
+
+</body>
+</html>

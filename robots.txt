@@ -1,0 +1,3 @@
+" User-agent: *
+Allow: /
+Sitemap: https://startup-services-oman.alwejhagroup.com/sitemap.xml"
